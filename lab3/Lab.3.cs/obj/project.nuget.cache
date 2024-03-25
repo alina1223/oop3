@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "oabdHWtuJo3dotp0wn2n6PPCdCI1U5KOD7VypKS/xLzKIU1QnvwpSWMH4Pdd7PjCywqR+e1aNqNqWdkwCJwidg==",
+  "success": true,
+  "projectFilePath": "/Users/iuliancolta041gmail.com/Documents/LAB/Lab.3.cs/Lab.3.cs.csproj",
+  "expectedPackageFiles": [
+    "/Users/iuliancolta041gmail.com/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/Users/iuliancolta041gmail.com/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша /Users/iuliancolta041gmail.com/Documents/LAB/Lab.3.cs/obj/project.nuget.cache: Invalid property identifier character: <. Path 'version', line 4, position 2."
+    }
+  ]
+}
